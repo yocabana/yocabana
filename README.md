@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yocabana
+👋 Hi, I’m @yocabana
 
 <!---
 yocabana/yocabana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
